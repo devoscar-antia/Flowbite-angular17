@@ -22,6 +22,8 @@ Translated with DeepL.com (free version)
 
 [flowbite-antia](https://flowbite-antia.vercel.app/)
 
+![flowbiteantia](src/assets/imgs/flowbiteantia.gif)
+
 ## Markdown structure 
 
 ```
