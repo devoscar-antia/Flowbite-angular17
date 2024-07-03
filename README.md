@@ -1,5 +1,72 @@
 # Todoapp
 
+#Markdown structure 
+
+```
+└── 📁landing
+    └── 📁.angular
+        └── 📁cache
+            └── 📁17.1.0
+                └── 📁todoapp
+                    └── .tsbuildinfo
+                └── 📁vite
+                    └── 📁deps
+                        └── @angular_common.js
+                        └── @angular_common.js.map
+                        └── @angular_core.js
+                        └── @angular_core.js.map
+                        └── @angular_platform-browser.js
+                        └── @angular_platform-browser.js.map
+                        └── @angular_router.js
+                        └── @angular_router.js.map
+                        └── chunk-HNMED33Q.js
+                        └── chunk-HNMED33Q.js.map
+                        └── chunk-J4B6MK7R.js
+                        └── chunk-J4B6MK7R.js.map
+                        └── chunk-NMPWXXLB.js
+                        └── chunk-NMPWXXLB.js.map
+                        └── chunk-WDHDEEVF.js
+                        └── chunk-WDHDEEVF.js.map
+                        └── flowbite.js
+                        └── flowbite.js.map
+                        └── package.json
+                        └── _metadata.json
+    └── .editorconfig
+    └── .gitignore
+    └── 📁.vscode
+        └── extensions.json
+        └── launch.json
+        └── tasks.json
+    └── angular.json
+    └── package-lock.json
+    └── package.json
+    └── README.md
+    └── 📁src
+        └── 📁app
+            └── app.component.css
+            └── app.component.html
+            └── app.component.spec.ts
+            └── app.component.ts
+            └── app.config.ts
+            └── app.routes.ts
+        └── 📁assets
+            └── .gitkeep
+            └── 📁imgs
+                └── Aphelioslol2.png
+                └── Aphelioslol4.png
+                └── champ-select.png
+                └── champ-select2.jpg
+                └── champ-select4.png
+        └── favicon.ico
+        └── index.html
+        └── main.ts
+        └── styles.css
+    └── tailwind.config.js
+    └── tsconfig.app.json
+    └── tsconfig.json
+    └── tsconfig.spec.json
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
 ## Development server
