@@ -20,7 +20,7 @@ Translated with DeepL.com (free version)
 
 ## Website 
 
-[flowbiteantia](https://flowbite-antia.vercel.app/)
+[flowbite-antia](https://flowbite-antia.vercel.app/)
 
 ## Markdown structure 
 
