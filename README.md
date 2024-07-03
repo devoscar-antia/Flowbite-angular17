@@ -1,4 +1,26 @@
-# Todoapp
+# Flowbite-antia Landing Page
+
+<p>
+Our new landing page, developed with Angular 17 and the Flowbite component library, offers a modern and dynamic user experience. The choice of Angular 17 ensures a robust and efficient application, while Flowbite provides a wide range of elegant and responsive components.
+
+The interface is intuitive and designed to guide users through key information seamlessly. The site features a clean, professional design with attractive visual elements that enhance the user experience.
+
+Key features include:
+
+- Smooth animations and transitions that enhance user interaction.
+
+- Customizable Flowbite components, allowing the interface to be quickly adapted and customized.
+
+- Full mobile compatibility, ensuring that the site looks and works perfectly on any device.
+
+- Fast loading and optimized performance, thanks to the efficiency of Angular 17 and the lightness of Flowbite.
+
+Translated with DeepL.com (free version)
+</p>
+
+## Website 
+
+[flowbiteantia](https://flowbite-antia.vercel.app/)
 
 ## Markdown structure 
 
